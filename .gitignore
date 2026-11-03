@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+avatar_data/uploads/*
+!avatar_data/uploads/.gitkeep
+avatar_data/generated/*
+!avatar_data/generated/.gitkeep
+avatar_data/*.db
+*.log
+.idea/
+.vscode/
